@@ -1,4 +1,4 @@
-### Olá! Sou o Anderson Barreto Alves.
+### Olá! Sou o Anderson Barreto Alves. ✔
 
 
 - 🔭 Atualmente estou trabalhando na área de Infraestrutura de TI no Cargo de Analista de Suporte Técnico.
