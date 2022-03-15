@@ -5,4 +5,4 @@
 - 🌱 Estou estudando JavaScript, Html e CSS.
 
 ![Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonbarretoalves&show_icons=true&theme=merko)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonbarretoalves&layout=compact&theme=merko)](https://github.com/andersonbarretoalves/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonbarretoalves&layout=compact&theme=merko)](https://github.com/andersonbarretoalves/github-readme-stats)
