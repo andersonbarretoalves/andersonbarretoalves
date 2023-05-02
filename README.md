@@ -4,8 +4,9 @@
 - 🔭 Atualmente estou trabalhando na área de Infraestrutura de TI no Cargo de Analista de Suporte Técnico.
 - 🌱 Estou estudando: Java, JavaScript, Html e CSS.
 
-![Anderson GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=andersonbarretoalves&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=andersonbarretoalves&layout=compact&theme=merko)](https://github.com/andersonbarretoalves)
+![Anderson GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=andersonbarretoalves&show_icons=true&rank_icon=github)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonbarretoalves&langs_count=8)](https://github.com/andersonbarretoalves/github-readme-stats)
 
 <div style="display: inline_block"><br>
   
