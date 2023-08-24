@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou trabalhando na área de Infraestrutura de TI no Cargo de Analista de Suporte Técnico.
-- 🌱 Estou estudando: Java, JavaScript, Html e CSS.
+- 🌱 Estou estudando: Java, JavaScript, Html e CSS SQL.
 
 ![Anderson GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=andersonbarretoalves&show_icons=true&rank_icon=github)
 
@@ -15,5 +15,5 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/29/29165.png"> 
+  <img align="center" alt="SQL" height="30" width="40" src="https://user-images.githubusercontent.com/40461634/114240226-2f506580-9955-11eb-849b-e2a25117d681.png"> 
 </div>
