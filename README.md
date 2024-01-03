@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente estou trabalhando na área de Infraestrutura de TI no Cargo de Analista de Suporte Técnico.
-- 🌱 Estou estudando: Java, JavaScript, Html, CSS e SQL.
+- 🌱 Estou estudando: C#, Java, JavaScript, Html, CSS e SQL.
 
 ![Anderson GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=andersonbarretoalves&show_icons=true&rank_icon=github)
 
