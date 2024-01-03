@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonbarretoalves&langs_count=10)](https://github.com/andersonbarretoalves/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonbarretoalves=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonbarretoalves&layout=compact)
 
 <div style="display: inline_block"><br>
   
