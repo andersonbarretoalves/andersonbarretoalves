@@ -6,8 +6,6 @@
 
 ![Anderson GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=andersonbarretoalves&show_icons=true&rank_icon=github)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonbarretoalves&langs_count=10)](https://github.com/andersonbarretoalves/github-readme-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonbarretoalves&layout=compact)
 
 <div style="display: inline_block"><br>
