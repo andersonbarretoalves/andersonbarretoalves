@@ -13,6 +13,6 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img align="center" alt="SQL" height="40" width="40" src="https://user-images.githubusercontent.com/40461634/114240226-2f506580-9955-11eb-849b-e2a25117d681.png"> 
-  <img align="center" alt="C#" height="40" width="40" src="https://user-images.githubusercontent.com/40461634/114240154-134cc400-9955-11eb-9ee7-84a0a2c7e5ba.png">
+  <img align="center" alt="SQL" height="30" width="30" src="https://user-images.githubusercontent.com/40461634/114240226-2f506580-9955-11eb-849b-e2a25117d681.png"> 
+  <img align="center" alt="C#" height="33" width="33" src="https://user-images.githubusercontent.com/40461634/114240154-134cc400-9955-11eb-9ee7-84a0a2c7e5ba.png">
 </div>
